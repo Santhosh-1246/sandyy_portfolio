@@ -130,7 +130,7 @@ const SOFT = [
 // Page 5: experience
 const EXP = {
   role: "Video Editor | Freelance / Part-Time",
-  years: 2,
+  years: 3,
   points: [
     "Edited wedding films, cinematic trailers, and highlight videos.",
     "Created engaging Instagram Reels and short-form content.",
