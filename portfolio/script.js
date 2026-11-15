@@ -17,29 +17,29 @@ const GALLERY = [
   {
     cat: "Reels",
     kind: "video",
-    title: "Birthday Celebration",
-    src: "assets/videos/reel1.mp4",
+    title: "Wedding Teaser Story",
+    src: "https://res.cloudinary.com/cieltdkh/video/upload/v1794729381/Reel2.mp4",
     hint: "portrait"
   },
   {
     cat: "Reels",
     kind: "video",
-    title: "Instagram Reel • Creative Story",
-    src: "assets/videos/reel2.mp4",
+    title: "Birthday Celebration",
+    src: "https://res.cloudinary.com/cieltdkh/video/upload/v1794729578/reel3.mp4",
     hint: "portrait"
   },
   {
     cat: "Wedding Films",
     kind: "video",
     title: "Wedding Teaser Story",
-    src: "assets/videos/wedding1.mp4",
+    src: "https://res.cloudinary.com/cieltdkh/video/upload/v1794729022/reel1.mp4",
     hint: "portrait"
   },
   {
     cat: "Wedding Films",
     kind: "video",
     title: "Wedding Teaser",
-    src: "assets/videos/promo1.mp4",
+    src: "https://res.cloudinary.com/cieltdkh/video/upload/v1786451845/herov3.mp4",
     hint: "portrait"
   },
 
@@ -48,28 +48,28 @@ const GALLERY = [
     cat: "Promos & Trailers",
     kind: "video",
     title: "Offer Reel",
-    src: "assets/videos/v6.mp4",
+    src: "https://res.cloudinary.com/cieltdkh/video/upload/v1794729683/reel6.mp4",
     hint: "portrait"
   },
   {
     cat: "Reels",
     kind: "video",
     title: "Reel",
-    src: "assets/videos/v3.mp4",
+    src: "https://res.cloudinary.com/cieltdkh/video/upload/v1794729836/reel8.mp4",
     hint: "portrait"
   },
   {
     cat: "Promos & Trailers",
     kind: "video",
     title: "Offers Reel",
-    src: "assets/videos/v5.mp4",
+    src: "https://res.cloudinary.com/cieltdkh/video/upload/v1794729806/reel7.mp4",
     hint: "portrait"
   },
   {
     cat: "Reels",
     kind: "video",
     title: "Reel",
-    src: "assets/videos/v7.mp4",
+    src: "https://res.cloudinary.com/cieltdkh/video/upload/v1794729816/reel5.mp4",
     hint: "portrait"
   }
 
